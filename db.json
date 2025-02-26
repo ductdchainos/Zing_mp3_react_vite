@@ -1,0 +1,47 @@
+{
+    "songs": [
+      {
+        "id": 1,
+        "name": "Tái Sinh",
+        "source": "https://vnno-zn-5-tf-a128-z3.zmdcdn.me/717f19f7abd998a8c144b53937a990aa?authen=exp=1740727362~acl=/717f19f7abd998a8c144b53937a990aa*~hmac=fb92f8470fdaf8c159e04f6cab4b35fe",
+        "duration": "04:00",
+        "artistId": 1
+      },
+      {
+        "id": 2,
+        "name": "Song 2",
+        "source": "",
+        "duration": "03:30",
+        "artistId": 2
+      }
+    ],
+    "artists": [
+      {
+        "id": 1,
+        "name": "Tùng Dương",
+        "genre": "Pop"
+      },
+      {
+        "id": 2,
+        "name": "Artist 2",
+        "genre": "Rock"
+      }
+    ],
+    "chill": [
+      {
+        "id": 1,
+        "songId": 1
+      },
+      {
+        "id": 2,
+        "songId": 2
+      }
+    ],
+    "MPH": [
+      {
+        "id": 1,
+        "songId": 2
+      }
+    ]
+  }
+  
