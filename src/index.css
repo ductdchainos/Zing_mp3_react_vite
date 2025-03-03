@@ -1,2 +1,30 @@
 @import "tailwindcss";
 
+html, body {
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+    background-color: #170f23;
+  }
+  
+  /* Ensure the app container takes full height */
+  #root, #app {
+    min-height: 100vh;
+    width: 100%;
+  }
+  
+  /* Adjust content area height to accommodate footer */
+  .content-area {
+    min-height: calc(100vh - 64px - 80px); /* Subtract header and footer heights */
+  }
+  
+  /* Ensure footer stays above content */
+  .footer {
+    z-index: 50;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 80px; /* Fixed height for footer */
+    background-color: #000;
+  }

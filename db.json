@@ -3,28 +3,31 @@
       {
         "id": 1,
         "name": "Tái Sinh",
-        "source": "https://vnno-zn-5-tf-a128-z3.zmdcdn.me/717f19f7abd998a8c144b53937a990aa?authen=exp=1740727362~acl=/717f19f7abd998a8c144b53937a990aa*~hmac=fb92f8470fdaf8c159e04f6cab4b35fe",
+        "img" : "https://photo-resize-zmp3.zmdcdn.me/w600_r1x1_jpeg/cover/0/5/0/1/050158601068bfb3b08fd8da7276a32d.jpg",
+        "source": "https://vnno-zn-5-tf-a128-z3.zmdcdn.me/717f19f7abd998a8c144b53937a990aa?authen=exp=1740905292~acl=/717f19f7abd998a8c144b53937a990aa*~hmac=0c861e215986cdc21444439df5f56ce1",
         "duration": "04:00",
         "artistId": 1
       },
       {
         "id": 2,
-        "name": "Song 2",
-        "source": "",
-        "duration": "03:30",
+        "name": "Trái Đất ôm Mặt Trời",
+        "img" : "https://photo-resize-zmp3.zmdcdn.me/w600_r1x1_jpeg/cover/8/a/7/b/8a7b7505e362a7c7ec23fc1a7118bf9b.jpg",
+        "source": "https://a128-z3.zmdcdn.me/67862f86145d560319b6219f708f740e?authen=exp=1741140954~acl=/67862f86145d560319b6219f708f740e*~hmac=b765bd68e162a87f6f9f0348576c9a2b",
+        "duration": "04:28",
         "artistId": 2
       }
+
     ],
     "artists": [
       {
         "id": 1,
         "name": "Tùng Dương",
-        "genre": "Pop"
+        "img" : "https://photo-resize-zmp3.zmdcdn.me/w600_r1x1_jpeg/avatars/3/7/1/8/37188297c5fd7ec2d824beb736301766.jpg"
       },
       {
         "id": 2,
-        "name": "Artist 2",
-        "genre": "Rock"
+        "name": "Hoàng Thùy Linh",
+        "img" : "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/a/3/7/b/a37b96a77f40eaeeafa8a8b22a4ff114.jpg"
       }
     ],
     "chill": [
@@ -40,7 +43,7 @@
     "MPH": [
       {
         "id": 1,
-        "songId": 2
+        "songId": 1
       }
     ]
   }
